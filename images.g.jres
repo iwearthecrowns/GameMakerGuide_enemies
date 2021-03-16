@@ -1,0 +1,14 @@
+{
+    "image1": "hwQIAAgAAAAzMzMzAwAAMAMzMzADAzAwAwMwMAMzMzADAAAwMzMzMw==",
+    "image2": "hwQQABAAAAAAAAAAAACQmQAAAAAAkAmQAAAAAJAJkJAAAACQCZCZkAAAkAmQmZmQAJAJkJmZmZCQCZCZAACQkAmQmZmQkJmQCZCZmZCQmZCQCZCZAJCZkACQCZCZmZmQAACQCZCZmZAAAACQCZCZkAAAAACQCZCQAAAAAACQCZAAAAAAAACQmQ==",
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAA7u4AAAAA7u7u7gAAAOAR4R7uAADg7vHhHuEADu7uEeEe4QDu7u7u7h7hAODu7u7uHuEAAO7uEeEe4QAA4O7x4R7hAAAA4BHhHu4AAAAA7u7u7gAAAAAAAO7uAAAAAAAAAA4AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myEnemy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
